@@ -14,8 +14,7 @@ Welcome to the Tic Tac Toe Game repository! This is a simple yet elegant impleme
 ---
 
 ## Full Walkthrough
-
-[![Tic Tac Toe Tutorial](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://youtu.be/ZbTWSMps5bs)
+[![js-thumbnail](https://github.com/user-attachments/assets/7a345717-6859-4587-8764-737f56004642)](https://youtu.be/ZbTWSMps5bs)
 
 Click on the image above to watch a full walkthrough tutorial on YouTube!
 
